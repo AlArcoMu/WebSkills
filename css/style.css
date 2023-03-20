@@ -1,3 +1,20 @@
 .bg-verde{
     background-color: #e5fae9;
 }
+.btn-verde{
+    background-color: #27a844;
+    text-align: center;
+    color: white;
+    border: none;
+
+
+}
+.bg-gris{
+    background-color: #6c757e;
+}
+.card {
+    border: 0;
+}
+.verde {
+    background-color: #27a844;
+}
