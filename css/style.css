@@ -6,8 +6,6 @@
     text-align: center;
     color: white;
     border: none;
-
-
 }
 .bg-gris{
     background-color: #6c757e;
@@ -18,9 +16,20 @@
 .verde {
     background-color: #27a844;
 }
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
 .bg-verdeclaro{
     background-color: #f5f9fc;
 }
 .txt-white{
     color: white;
+}
+button{ 
+    outline:none;
+}
+
+.mbMenos{
+    margin-bottom:-7px;
+    padding-bottom:-7px;
 }
